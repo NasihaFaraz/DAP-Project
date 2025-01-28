@@ -1,0 +1,2 @@
+Abstract:
+     This project analyzes and visualizes COVID-19 data to uncover trends in infection rates, recoveries, and mortality across regions. Using statistical tools and interactive visualizations, it highlights the pandemic’s trajectory, the impact of interventions, and connections to socioeconomic factors. The goal is to present clear, data-driven insights to support decision-making and research.
